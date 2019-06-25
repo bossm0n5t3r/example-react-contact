@@ -5,6 +5,10 @@ $ create-react-app example-react-contact
 $ yarn add open-color prop-types react-icons react-onclickoutside react-transition-group shortid styled-components
 ```
 
+- References
+  - https://github.com/vlpt-playground/react-contact
+  - https://velopert.com/3360
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
