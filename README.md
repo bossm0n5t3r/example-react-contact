@@ -1,3 +1,12 @@
+# example-react-contact
+
+```sh
+$ create-react-app example-react-contact
+$ yarn add open-color prop-types react-icons react-onclickoutside react-transition-group shortid styled-components
+```
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
