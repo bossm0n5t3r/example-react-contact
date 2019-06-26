@@ -21,7 +21,7 @@ const Wrapper = styled.div`
 `;
 
 Wrapper.propsTypes = {
-    size: PropTypes.string;
+    size: PropTypes.string,
     color: PropTypes.string
 };
 
@@ -35,7 +35,7 @@ const Thumbnail = ({ size, color }) => (
 );
 
 Thumbnail.propsTypes = {
-    size: PropTypes.string;
+    size: PropTypes.string,
     color: PropTypes.string
 };
 
