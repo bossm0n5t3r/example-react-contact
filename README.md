@@ -7,6 +7,7 @@ $ yarn add open-color prop-types react-icons react-onclickoutside react-transiti
 
 - References
   - https://github.com/vlpt-playground/react-contact
+  - https://github.com/vlpt-playground/react-contact/tree/redux
   - https://velopert.com/3360
 
 ---
